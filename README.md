@@ -1,10 +1,3 @@
-Sure! Here's a complete and professional `README.md` tailored for your **Body Landmark Capture** project.
-
----
-
-### 📄 `README.md`
-
-````markdown
 # Body Landmark Capture
 
 This Python script uses [MediaPipe](https://github.com/google/mediapipe) and [OpenCV](https://opencv.org/) to capture body pose landmarks from a video file or webcam in real time. It saves the extracted landmark data to a JSON file for further analysis or machine learning use.
